@@ -1,2 +1,1 @@
-# license-plate-lookup
-Automated License Plate Lookup (Subroutine)
+# Automated License Plate Lookup (Subroutine)
